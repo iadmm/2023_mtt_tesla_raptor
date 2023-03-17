@@ -1,10 +1,10 @@
 import React from "react";
-import Map from "./components/Map";
+import Cucumber from "./components/cucumber/Cucumber";
 
 function App() {
   return (
     <div className="App">
-      <Map />
+      <Cucumber />
     </div>
   );
 }
